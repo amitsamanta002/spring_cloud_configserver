@@ -1,0 +1,4 @@
+service:
+    message:sample message from config server
+service:
+    value:Application configuration value
