@@ -1,11 +1,8 @@
 service:
-    message:sample message from config server
-    value:Application configuration value
-
-app:
-    db:
-        name:mysql
-        driver:mysql driver
+    message:
+        sample message from config server
+    value:
+        Application configuration value
         
     error:
         message:application error occurs
