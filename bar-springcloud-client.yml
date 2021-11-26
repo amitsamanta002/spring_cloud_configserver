@@ -1,0 +1,9 @@
+server:
+  port:
+    8082
+  
+app:
+  message:
+    Hello from bar -springcloud-config server
+  db:
+    name:oracle;driver:oracle driver
