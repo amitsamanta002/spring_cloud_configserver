@@ -6,6 +6,4 @@ app:
   message:
     Hello from foo-springcloud-config server
   db:
-    name:mysql
-    driver:mysql driver
-  
+    name:mysql;driver:mysql driver
