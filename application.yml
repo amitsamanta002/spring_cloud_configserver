@@ -5,7 +5,9 @@ service:
         Application configuration value
         
     error:
-        message:application error occurs
-        description:Application has error in system
+        message:
+            application error occurs
+        description:
+            Application has error in system
 
    
