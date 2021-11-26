@@ -2,8 +2,7 @@ service:
     message:
         sample message from config server
     value:
-        Application configuration value
-        
+        Application configuration value 
     error:
         message:
             application error occurs
