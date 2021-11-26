@@ -1,3 +1,14 @@
 service:
     message:sample message from config server
     value:Application configuration value
+
+app:
+    db:
+        name:mysql
+        driver:mysql driver
+        
+    error:
+        message:application error occurs
+        description:Application has error in system
+
+   
