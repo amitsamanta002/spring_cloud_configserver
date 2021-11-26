@@ -1,6 +1,8 @@
 server:
-  port:8081
+  port:
+    8081
   
 app:
-  message:Hello from foo-springcloud-config server
+  message:
+    Hello from foo-springcloud-config server
   
