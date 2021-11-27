@@ -4,6 +4,6 @@ server:
   
 app:
   message:
-    Hello from foo-springcloud-config server - refresh triggred -v1
+    Hello from foo-springcloud-config server - refresh triggred -v2
   db:
     name:mysql;driver:mysql driver
