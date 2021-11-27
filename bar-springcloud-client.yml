@@ -4,6 +4,6 @@ server:
   
 app:
   message:
-    Hello from bar -springcloud-config server
+    Hello from bar -springcloud-config server - refresh
   db:
     name:oracle;driver:oracle driver
