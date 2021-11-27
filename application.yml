@@ -1,6 +1,6 @@
 service:
     message:
-        sample message from config server
+        sample message from config server -update.
     value:
         Application configuration value 
     error:
